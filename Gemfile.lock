@@ -28,6 +28,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
+    rack (1.6.4)
     simple_oauth (0.3.1)
     slop (3.6.0)
     thread_safe (0.3.5)
@@ -51,6 +52,7 @@ PLATFORMS
 
 DEPENDENCIES
   pry
+  rack
   twitter
 
 BUNDLED WITH
